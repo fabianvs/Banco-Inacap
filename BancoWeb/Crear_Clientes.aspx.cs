@@ -18,33 +18,30 @@ namespace BancoWeb
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            /*string rut = this.rutcTxt.Text;
+            string rut = this.rutcTxt.Text;
             string nombre = this.nombrecTxt.Text;
             string paterno = this.paternocTxt.Text;
             string materno = this.maternocTxt.Text;
             string clave = this.passcTxt.Text;
-            int ncuenta = Convert.ToInt32(this.ncuentaTxt);
-             */
-            /*
+            int ncuenta = Convert.ToInt32(this.ncuentaTxt.Text);
 
-            System.Diagnostics.Debug.WriteLine("rut:" + rut);
-            System.Diagnostics.Debug.WriteLine("nombre:" + nombre);
-            System.Diagnostics.Debug.WriteLine("apellido paterno:" + paterno);
-            System.Diagnostics.Debug.WriteLine("apellido materno:" + materno);
-            System.Diagnostics.Debug.WriteLine("contraseña:" + clave);
-            System.Diagnostics.Debug.WriteLine("Número de cuenta:" + ncuenta);
-            System.Diagnostics.Debug.WriteLine("Tipo de cuenta:" + tipocuenta);
+            System.Diagnostics.Debug.WriteLine("Creando Cliente");
 
-            */
-
-    /*
             Cliente cliente = new Cliente(rut, nombre, paterno, materno, clave);
+            ClienteDALObjetos clienteDal = new ClienteDALObjetos();
+            clienteDal.Agregar(cliente);
 
-            System.Diagnostics.Debug.WriteLine(cliente.ToString());
+            System.Diagnostics.Debug.WriteLine("Cliente Creado");
 
+            System.Diagnostics.Debug.WriteLine("Creando Cuenta");
             Cuenta cuenta = new Cuenta(ncuenta, 0, cliente, 0, 0, 0);
+            CuentaDALObjetos cuentaDal = new CuentaDALObjetos();
+            cuentaDal.crearCuenta(cuenta);
 
-            System.Diagnostics.Debug.WriteLine(cuenta.ToString());*/
+            System.Diagnostics.Debug.WriteLine("Cuenta Creada");
+
+
+            Response.Redirect("Mostrar_Cliente.aspx");
         }
 
     }

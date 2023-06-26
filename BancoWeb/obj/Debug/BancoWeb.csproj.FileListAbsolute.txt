@@ -61,3 +61,16 @@ C:\Users\fvarg\Downloads\Banco\Banco\BancoWeb\bin\Microsoft.CodeDom.Providers.Do
 C:\Users\fvarg\Downloads\Banco\Banco\BancoWeb\obj\Debug\BancoWeb.csproj.CopyComplete
 C:\Users\fvarg\Downloads\Banco\Banco\BancoWeb\obj\Debug\BancoWeb.dll
 C:\Users\fvarg\Downloads\Banco\Banco\BancoWeb\obj\Debug\BancoWeb.pdb
+C:\Users\fvarg\Downloads\Banco\Banco\BancoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fvarg\Downloads\Banco\Banco\BancoWeb\bin\System.Web.Helpers.dll
+C:\Users\fvarg\Downloads\Banco\Banco\BancoWeb\bin\System.Web.Mvc.dll
+C:\Users\fvarg\Downloads\Banco\Banco\BancoWeb\bin\System.Web.Razor.dll
+C:\Users\fvarg\Downloads\Banco\Banco\BancoWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fvarg\Downloads\Banco\Banco\BancoWeb\bin\System.Web.WebPages.dll
+C:\Users\fvarg\Downloads\Banco\Banco\BancoWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\fvarg\Downloads\Banco\Banco\BancoWeb\bin\System.Web.Helpers.xml
+C:\Users\fvarg\Downloads\Banco\Banco\BancoWeb\bin\System.Web.Mvc.xml
+C:\Users\fvarg\Downloads\Banco\Banco\BancoWeb\bin\System.Web.Razor.xml
+C:\Users\fvarg\Downloads\Banco\Banco\BancoWeb\bin\System.Web.WebPages.xml
+C:\Users\fvarg\Downloads\Banco\Banco\BancoWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fvarg\Downloads\Banco\Banco\BancoWeb\bin\System.Web.WebPages.Razor.xml

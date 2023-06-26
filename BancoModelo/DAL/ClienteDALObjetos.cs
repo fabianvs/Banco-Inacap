@@ -35,7 +35,11 @@ namespace BancoModelo.DAL
             clientes.Find(c => c.Run1 == run);
         }
 
-        
+        public List<Cliente> Filtrar(string run)
+        {
+            return clientes.FindAll(c => c.Run1 == run);
+        }
+
 
     }
 
