@@ -94,6 +94,7 @@
     <Content Include="LoginCliente.aspx" />
     <Content Include="LoginEjecutivo.aspx" />
     <Content Include="MostrarClientes.aspx" />
+    <Content Include="Mostrar_Cliente.aspx" />
     <Content Include="Transferir.aspx" />
     <Content Include="VerCuentaySaldo.aspx" />
     <Content Include="VerMensajesC.aspx" />
@@ -142,6 +143,13 @@
     </Compile>
     <Compile Include="MostrarClientes.aspx.designer.cs">
       <DependentUpon>MostrarClientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar_Cliente.aspx.cs">
+      <DependentUpon>Mostrar_Cliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mostrar_Cliente.aspx.designer.cs">
+      <DependentUpon>Mostrar_Cliente.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SitioCliente.Master.cs">
