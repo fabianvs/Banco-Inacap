@@ -88,6 +88,7 @@
     <Content Include="bootstrap\js\bootstrap.js" />
     <Content Include="bootstrap\js\bootstrap.min.js" />
     <Content Include="Crear_Clientes.aspx" />
+    <Content Include="Crear_Ejecutivo.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="Images\fondo.jpg" />
     <Content Include="LoginCliente.aspx" />
@@ -106,6 +107,13 @@
     </Compile>
     <Compile Include="Crear_Clientes.aspx.designer.cs">
       <DependentUpon>Crear_Clientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Crear_Ejecutivo.aspx.cs">
+      <DependentUpon>Crear_Ejecutivo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Crear_Ejecutivo.aspx.designer.cs">
+      <DependentUpon>Crear_Ejecutivo.aspx</DependentUpon>
     </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
