@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\Por favor\Banco\BancoModelo\obj\Debug\BancoModelo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Por favor\Banco\BancoModelo\obj\Debug\BancoModelo.csproj.AssemblyReference.cache
+C:\Users\fvarg\Downloads\Banco\Banco\BancoModelo\obj\Debug\BancoModelo.csproj.AssemblyReference.cache
+C:\Users\fvarg\Downloads\Banco\Banco\BancoModelo\obj\Debug\BancoModelo.csproj.CoreCompileInputs.cache
+C:\Users\fvarg\Downloads\Banco\Banco\BancoModelo\bin\Debug\BancoModelo.dll
+C:\Users\fvarg\Downloads\Banco\Banco\BancoModelo\bin\Debug\BancoModelo.pdb
+C:\Users\fvarg\Downloads\Banco\Banco\BancoModelo\obj\Debug\BancoModelo.dll
+C:\Users\fvarg\Downloads\Banco\Banco\BancoModelo\obj\Debug\BancoModelo.pdb
